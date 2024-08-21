@@ -13,4 +13,4 @@ This is a Flutter-based application for tracking cryptocurrency prices.
 ## Installation
 1. Clone the repository:
    ```bash
-  https://github.com/mehtavanshi/flutter_WebSocket.git
+ git clone  https://github.com/mehtavanshi/flutter_WebSocket.git
